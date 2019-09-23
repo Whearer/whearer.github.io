@@ -10,6 +10,23 @@ excerpt: Some interesting papers
 
 [Dropout as a Bayesian Approximation]
 
+# Area: High-Dimensional
+
+[Dropout as a Bayesian Approximation]
+
+---
+# Area: Bandits
+
+[High-Dimensional Gaussian Process Bandits](https://las.inf.ethz.ch/files/djolonga13high-long.pdf)
+
+[Stochastic Multi-Armed-Bandit Problem with Non-stationary Rewards](http://papers.nips.cc/paper/5378-stochastic-multi-armed-bandit-problem-with-non-stationary-rewards.pdf)
+
+
+---
+# Area: Natural Gradient
+
+[Natural Gradient Deep Q-learning](https://arxiv.org/pdf/1803.07482v2.pdf)
+
 ---
 # Area: Active Learning, Multi-Objective Optimisation
 
