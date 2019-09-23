@@ -8,7 +8,8 @@ excerpt: Some interesting papers
 
 1. Title: Active Learning for Multi-Objective Optimisation
 
-http://jmlr.org/papers/volume17/15-047/15-047.pdf
+[e-PAL: An Active Learning Approach to the Multi-Objective Optimization Problem](http://jmlr.org/papers/volume17/15-047/15-047.pdf)
+ 
 
 http://proceedings.mlr.press/v28/zuluaga13.pdf
 
