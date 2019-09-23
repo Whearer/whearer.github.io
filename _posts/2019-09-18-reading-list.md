@@ -10,8 +10,8 @@ excerpt: Some interesting papers
 
 [Dropout as a Bayesian Approximation]
 
-
-#Area: Active Learning, Multi-Objective Optimisation
+---
+# Area: Active Learning, Multi-Objective Optimisation
 
 [e-PAL: An Active Learning Approach to the Multi-Objective Optimization Problem](http://jmlr.org/papers/volume17/15-047/15-047.pdf)
  
