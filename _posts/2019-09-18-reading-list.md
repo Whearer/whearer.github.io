@@ -6,16 +6,16 @@ categories: Papers
 excerpt: Some interesting papers
 ---
 
-# Area: Deep learning as Bayesian inference
+# key: Deep learning as Bayesian inference
 
 [Dropout as a Bayesian Approximation]
 
-# Area: High-Dimensional
+# key: High-Dimensional
 
 [Dropout as a Bayesian Approximation]
 
 ---
-# Area: Bandits
+# key: Bandits
 
 [High-Dimensional Gaussian Process Bandits](https://las.inf.ethz.ch/files/djolonga13high-long.pdf)
 
@@ -23,12 +23,12 @@ excerpt: Some interesting papers
 
 
 ---
-# Area: Natural Gradient
+# key: Natural Gradient
 
 [Natural Gradient Deep Q-learning](https://arxiv.org/pdf/1803.07482v2.pdf)
 
 ---
-# Area: Active Learning, Multi-Objective Optimisation
+# key: Active Learning, Multi-Objective Optimisation
 
 [e-PAL: An Active Learning Approach to the Multi-Objective Optimization Problem](http://jmlr.org/papers/volume17/15-047/15-047.pdf)
  
