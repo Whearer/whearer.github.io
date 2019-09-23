@@ -6,7 +6,12 @@ categories: Papers
 excerpt: Some interesting papers
 ---
 
-1. Title: Active Learning for Multi-Objective Optimisation
+# Area: Deep learning as Bayesian inference
+
+[Dropout as a Bayesian Approximation]
+
+
+#Area: Active Learning, Multi-Objective Optimisation
 
 [e-PAL: An Active Learning Approach to the Multi-Objective Optimization Problem](http://jmlr.org/papers/volume17/15-047/15-047.pdf)
  
