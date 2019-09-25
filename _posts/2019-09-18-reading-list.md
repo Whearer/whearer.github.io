@@ -50,10 +50,15 @@ Authors: Anish Athalye, Logan Engstrom, Andrew Ilyas, Kevin Kwok
 
 Arxiv Link: https://arxiv.org/pdf/1707.07397.pdf
 
-# Algoirthm parameter configuration
+# Algorithm parameter configuration
 
 [Per instance algorithm configuration of CMA-ES with limited budget](https://hal.inria.fr/hal-01613753/file/GECCO2017_nacimbelkhir.pdf)
+and [slides](http://211.65.106.2/cache/4/03/www.coseal.net/a1f612522f81001634097d53c9b46620/slidesSchoenauerCOSEAL2017.pdf)
 
 [Algorithm runtime prediction: Methods & evaluation](https://www.sciencedirect.com/science/article/pii/S0004370213001082)
 
 [Sequential Model-Based Optimization for General Algorithm Configuration](https://www.cs.ubc.ca/~hutter/papers/10-TR-SMAC.pdf)
+
+# Clustering
+
+[Efficient clustering](https://arxiv.org/abs/1902.11266)
