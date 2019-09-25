@@ -41,7 +41,11 @@ and [slides](http://211.65.106.2/cache/4/03/www.coseal.net/a1f612522f81001634097
 ---
 # Reinforcement Learning
 
+First of all, a list of resource for RL including courses, papers/surveys, benchmarks/testbeds [Resources for Deep Reinforcement Learning](https://medium.com/@yuxili/resources-for-deep-reinforcement-learning-a5fdf2dc730f)
+
 [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
+
+[Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/pdf/1802.09477.pdf)
 
 [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)
 
