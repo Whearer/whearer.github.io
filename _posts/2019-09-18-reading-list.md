@@ -80,4 +80,4 @@ First of all, a list of resource for RL including courses, papers/surveys, bench
 
 # Clustering
 
-[Efficient clustering](https://arxiv.org/abs/1902.11266)
+[Efficient Parameter-free Clustering Using First Neighbor Relations](https://arxiv.org/abs/1902.11266)
