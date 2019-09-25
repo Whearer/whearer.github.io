@@ -60,6 +60,10 @@ OpenAI tutorial [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest
 
 [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/pdf/1801.01290.pdf)
 
+[PPO-CMA: Proximal Policy Optimization with Covariance Matrix Adaptation](https://arxiv.org/pdf/1810.02541.pdf)
+
+RL algorithms for handling combinatorial optimization problems [Deep Learning in Computational Discrete Optimization](https://www.math.uwaterloo.ca/~bico/co759/2018/index.html)
+
 # key: Deep learning as Bayesian inference
 
 [Dropout as a Bayesian Approximation]
