@@ -37,11 +37,14 @@ and [slides](http://211.65.106.2/cache/4/03/www.coseal.net/a1f612522f81001634097
 [Algorithm runtime prediction: Methods & evaluation](https://www.sciencedirect.com/science/article/pii/S0004370213001082)
 
 [Sequential Model-Based Optimization for General Algorithm Configuration](https://www.cs.ubc.ca/~hutter/papers/10-TR-SMAC.pdf)
+This paper propose the SMAC algorithm, a random forest based Bayesian optimization algorithm.
 
 ---
 # Reinforcement Learning
 
 First of all, a list of resource for RL including courses, papers/surveys, benchmarks/testbeds [Resources for Deep Reinforcement Learning](https://medium.com/@yuxili/resources-for-deep-reinforcement-learning-a5fdf2dc730f)
+
+OpenAI tutorial [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/index.html)
 
 [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
 
