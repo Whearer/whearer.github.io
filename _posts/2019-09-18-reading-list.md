@@ -41,6 +41,9 @@ A more completed method is presented on SAT, TSP and MIP problems.
 [Sequential Model-Based Optimization for General Algorithm Configuration](https://www.cs.ubc.ca/~hutter/papers/10-TR-SMAC.pdf)
 This paper propose the SMAC algorithm, a random forest based Bayesian optimization algorithm.
 
+[Algorithm selection using deep learning without feature extraction](https://dl_acm.gg363.site/citation.cfm?id=3321845)
+
+
 ---
 # Reinforcement Learning
 
@@ -75,6 +78,9 @@ RL algorithms for handling combinatorial optimization problems [Deep Learning in
 ---
 # key: Bandits
 
+
+
+
 [High-Dimensional Gaussian Process Bandits](https://las.inf.ethz.ch/files/djolonga13high-long.pdf)
 
 [Stochastic Multi-Armed-Bandit Problem with Non-stationary Rewards](http://papers.nips.cc/paper/5378-stochastic-multi-armed-bandit-problem-with-non-stationary-rewards.pdf)
@@ -82,6 +88,9 @@ RL algorithms for handling combinatorial optimization problems [Deep Learning in
 
 ---
 # key: Natural Gradient
+[True Asymptotic Natural Gradient Optimization](http://www.yann-ollivier.org/rech/publs/tango.pdf)
+
+[Natural Langevin Dynamics for Neural Networks](http://www.yann-ollivier.org/rech/publs/tango.pdf)
 
 [Natural Gradient Deep Q-learning](https://arxiv.org/pdf/1803.07482v2.pdf)
 
