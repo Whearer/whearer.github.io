@@ -5,7 +5,7 @@ date:   2019-09-18 14:06:05
 categories: Papers
 excerpt: Some interesting papers
 ---
-# key: Active Learning, Multi-Objective Optimisation
+# Active Learning, Multi-Objective Optimisation
 
 [e-PAL: An Active Learning Approach to the Multi-Objective Optimization Problem](http://jmlr.org/papers/volume17/15-047/15-047.pdf)
  
@@ -67,7 +67,7 @@ OpenAI tutorial [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest
 
 RL algorithms for handling combinatorial optimization problems [Deep Learning in Computational Discrete Optimization](https://www.math.uwaterloo.ca/~bico/co759/2018/index.html)
 
-# key: Deep learning as Bayesian inference
+# Deep learning as Bayesian inference
 
 [Dropout as a Bayesian Approximation]
 
@@ -76,7 +76,7 @@ RL algorithms for handling combinatorial optimization problems [Deep Learning in
 [Dropout as a Bayesian Approximation]
 
 ---
-# key: Bandits
+# Bandits
 
 
 
@@ -87,7 +87,7 @@ RL algorithms for handling combinatorial optimization problems [Deep Learning in
 
 
 ---
-# key: Natural Gradient
+# Natural Gradient
 [True Asymptotic Natural Gradient Optimization](http://www.yann-ollivier.org/rech/publs/tango.pdf)
 
 [Natural Langevin Dynamics for Neural Networks](http://www.yann-ollivier.org/rech/publs/tango.pdf)
