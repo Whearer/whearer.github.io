@@ -21,7 +21,7 @@ The implementation code can be found [here](http://www.spiral.net/software/pal/e
 [Active learning of Pareto fronts with disconnected feasible](http://disi.unitn.it/~passerini/papers/mic2013alp.pdf)
 
 
-Title: Synthesizing robust adversarial examples 
+# Title: Synthesizing robust adversarial examples 
 
 Authors: Anish Athalye, Logan Engstrom, Andrew Ilyas, Kevin Kwok
 
