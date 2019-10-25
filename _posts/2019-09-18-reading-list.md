@@ -21,7 +21,7 @@ The implementation code can be found [here](http://www.spiral.net/software/pal/e
 [Active learning of Pareto fronts with disconnected feasible](http://disi.unitn.it/~passerini/papers/mic2013alp.pdf)
 
 
-# Title: Synthesizing robust adversarial examples 
+# Synthesizing robust adversarial examples 
 
 Authors: Anish Athalye, Logan Engstrom, Andrew Ilyas, Kevin Kwok
 
@@ -67,11 +67,17 @@ OpenAI tutorial [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest
 
 RL algorithms for handling combinatorial optimization problems [Deep Learning in Computational Discrete Optimization](https://www.math.uwaterloo.ca/~bico/co759/2018/index.html)
 
+## Improvements
+[Boosting Trust Region Policy Optimization with Normalizing Flows Policy](https://invertibleworkshop.github.io/accepted_papers/pdfs/INNF_2019_paper_12.pdf)
+
+## Black-box Optimization and Reinforcement Learning
+[Guiding Evolutionary Strategies with Off-Policy Actor-Critic](https://robintyh1.github.io/papers/Tang2019CEMACER.pdf)
+
 # Deep learning as Bayesian inference
 
 [Dropout as a Bayesian Approximation]
 
-# key: High-Dimensional
+# High-Dimensional
 
 [Dropout as a Bayesian Approximation]
 
